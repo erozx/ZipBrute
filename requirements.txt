@@ -1,0 +1,6 @@
+customtkinter
+easygui
+CTkMessagebox
+pyperclip
+rarfile
+pyzipper
