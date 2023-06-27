@@ -1,5 +1,5 @@
 ## ZipBrute ![Python|3.7](https://img.shields.io/badge/Python-3.7-blue.svg)
-Tool to find Zip/Rar file password by using Brute Force attack in GUI view
+Tool to find Zip/Rar file password by using Brute Force attack in GUI view<br>
 for executable files specifically for Windows only, but if you want to try it on Linux, you can try using the source code
 
 <img src="https://github.com/SansXpl/ZipBrute/blob/main/image/zip_brute.png" alt="ZipBrute" border="0">
