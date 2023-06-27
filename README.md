@@ -11,7 +11,7 @@ for executable files specifically for Windows only, but if you want to try it on
 
 # or if you want directly from the source code, you can follow the method below
 # clone the repo
-git clone https://github.com/SansXpl/ZipBrute.git
+$ git clone https://github.com/SansXpl/ZipBrute.git
 
 # change the working directory to ZipBrute
 $ cd ZipBrute
